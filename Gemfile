@@ -11,6 +11,7 @@ gem 'rails', '~> 5.1.4'
 # Use devise for authentication and bootstrap for views
 gem 'devise'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 # Use Puma as the app server
