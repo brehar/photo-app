@@ -16,6 +16,10 @@ gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 # Use stripe for payments
 gem 'stripe'
+# Gems for image upload
+gem 'carrierwave'
+gem 'fog'
+gem 'mini_magick'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
